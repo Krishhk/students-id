@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "totalMarks": 95
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "totalMarks": 87
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "totalMarks": 92
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "totalMarks": 80
+  },
+  {
+    "id": 5,
+    "name": "Robert Wilson",
+    "totalMarks": 91
+  },
+  {
+    "id": 6,
+    "name": "Sarah Thompson",
+    "totalMarks": 88
+  },
+  {
+    "id": 7,
+    "name": "David Garcia",
+    "totalMarks": 95
+  },
+  {
+    "id": 8,
+    "name": "Olivia Anderson",
+    "totalMarks": 79
+  },
+  {
+    "id": 9,
+    "name": "James Brown",
+    "totalMarks": 84
+  },
+  {
+    "id": 10,
+    "name": "Sophia Martinez",
+    "totalMarks": 90
+  },
+  {
+    "id": 11,
+    "name": "Daniel Clark",
+    "totalMarks": 89
+  },
+  {
+    "id": 12,
+    "name": "Ava Thomas",
+    "totalMarks": 93
+  }
+]
